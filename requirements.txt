@@ -1,0 +1,7 @@
+# Initial environment dependencies for the public ANPR demo.
+# Pin versions after validating the application on the target OS / accelerator.
+numpy
+opencv-python
+ultralytics
+torch
+torchvision
